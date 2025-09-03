@@ -8,12 +8,12 @@
 		<version>3.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sample</groupId>
-	<artifactId>SpringCrudProject</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringCrudProject</name>
-	<description>Project to perform crud operation on e-commerce website</description>
-	<url/>
+	<groupId>com.saveher</groupId>
+<artifactId>SaveHer</artifactId>
+<version>0.0.1-SNAPSHOT</version>
+<name>SaveHer</name>
+<description>SaveHer Project to perform CRUD operation</description>
+<url/>
 	<licenses>
 		<license/>
 	</licenses>
